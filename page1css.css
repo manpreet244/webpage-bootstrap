@@ -1,0 +1,23 @@
+.bg {
+  /* The image used */
+  background-image: url("sublimecoding.jpeg");
+
+  /* Full height */
+  height: 400px;
+width:100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+
+
+<div class="card" style="width: 15rem;height:25rem;">
+  <img class="card-img-top" src="laptop.jpeg" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">Web Development</h5>
+    <p class="card-text text-center">Lorem Ipsum Doler sit ametconsectetur adipisicingelit. Adipisci eum  error earum soluta voluptatum nisi laboriosam eos saepe asperiories dolorum</p>
+    </div >
+  </div>
